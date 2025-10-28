@@ -3,3 +3,6 @@ tensorflow
 numpy
 pillow
 matplotlib
+keras==2.15.0
+opencv-python-headless
+
